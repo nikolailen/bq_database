@@ -78,3 +78,6 @@ The prepared database enables team members to independently access and analyze d
 - **Looker Studio**
 - **Google Sheets**
 - **Colab Enterprise**
+
+- For more information, please refer to the [PDF presentation](high_overview_presentation_git.pdf) available in this repository.
+
